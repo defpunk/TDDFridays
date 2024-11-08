@@ -14,6 +14,6 @@ My trick is to always start coding in a test file, I imagine the code I want alr
 
 I'm trying to get into the red green refactor cycle and take the smallest steps I can on both the test and production code. When I find its been more than a few minutes since I wrote a test I ask myself if the last step I took was too big.
 
-## Exercises
+## Exercises
 
 1. [Temprature converter](01_temparature_converter.md)
