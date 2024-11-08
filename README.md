@@ -6,9 +6,9 @@ Dave Farley calls TDD a talent amplifier for sowtware engineers. [See this video
 
 Robert C. Martin (“Uncle Bob”) provides a concise set of rules for practicing TDD
 
-*. Write production code only to pass a failing unit test.
-*. Write no more of a unit test than sufficient to fail (compilation failures are failures).
-*. Write no more production code than necessary to pass the one failing unit test.
+* Write production code only to pass a failing unit test.
+* Write no more of a unit test than sufficient to fail (compilation failures are failures).
+* Write no more production code than necessary to pass the one failing unit test.
 
 My trick is to always start coding in a test file, I imagine the code I want already exists and type it in, when the IDE underlines errors I create the bear minium that will make the code compile. Empty classes, functions that return null or whatever the IDE will generate for me work well. My aim is to get the test code to compile so that I can get to a test that fails.
 
