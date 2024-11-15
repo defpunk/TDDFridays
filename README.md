@@ -17,3 +17,4 @@ I'm trying to get into the red green refactor cycle and take the smallest steps 
 ## Exercises
 
 1. [Temprature converter](01_temparature_converter.md)
+2. [String calculator](02_string_calculator.md)
